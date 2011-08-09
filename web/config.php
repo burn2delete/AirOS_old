@@ -1,6 +1,6 @@
 <?php
 
-echo $_Server['HTTP_HOST'];
+echo $_SERVER['HTTP_HOST'];
 
 if (!isset($_SERVER['HTTP_HOST'])) {
     die('This script cannot be run from the CLI. Run it from a browser.');
