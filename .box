@@ -4,6 +4,7 @@
 shared_writable_dirs:
     - app/cache
     - app/logs
+    - web/bundles
  
 ################################################
 ## WEB SPECIFIC SETTINGS
