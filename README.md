@@ -1,16 +1,12 @@
-Symfony Standard Edition
+AirOS
 ========================
 
-Welcome to the Symfony Standard Edition - a fully-functional Symfony2
-application that you can use as the skeleton for your new app. If you want
-to learn more about the features included, see the "What's Inside?" section.
+Welcome to AirOS - Ajax vIRtual Operating System - a fully-functional Symfony2
+distro.
 
-This document contains information on how to download and start using Symfony.
-For a more detailed explanation, see the
-[Installation chapter](http://symfony.com/doc/current/book/installation.html)
-of the Symfony Documentation.
+This guide is a work in progress. More info on the wiki!
 
-1) Download the Standard Edition
+1) Download AirOS
 --------------------------------
 
 If you've already downloaded the standard edition, and unpacked it somewhere
