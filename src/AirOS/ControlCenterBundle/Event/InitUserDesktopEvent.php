@@ -43,10 +43,12 @@ class InitUserDesktopEvent extends Event
 		foreach($this->session->getAttributes() as $userModulesArray => $modulesIndex)
 		{
 			foreach($modulesIndex as $index => $moduleArray)
+			{
 				if($index['name'] == $moduleName)
 				{
 					unset($index);
 				}
+			}
 		}
 	}
 }
